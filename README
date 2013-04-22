@@ -1,0 +1,1 @@
+In this assignment, we first had to create and implement a stack ADT that includes an arraystack.  The second part was to be able to input equations that include the four basic arithmetic operations and opperands.  The ADT reads through the array stack and solves the equation you put into the stack.
